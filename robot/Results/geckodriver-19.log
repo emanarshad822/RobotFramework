@@ -1,0 +1,24 @@
+1711640229790	geckodriver	INFO	Listening on 127.0.0.1:64233
+1711640232893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHAEDR~1\\AppData\\Local\\Temp\\rust_mozprofileHcRKx3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711640233288	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711640233390	Marionette	INFO	Listening on port 64242
+WebDriver BiDi listening on ws://127.0.0.1:64234
+Read port: 64242
+1711640233677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64234/devtools/browser/364d2ad0-3d1e-4cbf-bd94-a2d449e8cbef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1711640264873	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711640475665	Marionette	INFO	Stopped listening on port 64242
+Dynamically enable window occlusion 1

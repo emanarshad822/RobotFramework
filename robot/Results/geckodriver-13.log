@@ -1,0 +1,22 @@
+1711638884823	geckodriver	INFO	Listening on 127.0.0.1:63272
+1711638887903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHAEDR~1\\AppData\\Local\\Temp\\rust_mozprofileAfUhnh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711638888302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711638888390	Marionette	INFO	Listening on port 63282
+WebDriver BiDi listening on ws://127.0.0.1:63273
+Read port: 63282
+1711638888687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63273/devtools/browser/c8a0083f-c896-497f-8570-69e5e79efe59
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: TypeError: e.error is undefined
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: TypeError: e.error is undefined
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: TypeError: e.error is undefined
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: TypeError: e.error is undefined
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: TypeError: e.error is undefined
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: TypeError: e.error is undefined
+1711638918006	Marionette	INFO	Stopped listening on port 63282
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

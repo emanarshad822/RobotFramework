@@ -1,0 +1,21 @@
+1711611919604	geckodriver	INFO	Listening on 127.0.0.1:56297
+1711611922757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHAEDR~1\\AppData\\Local\\Temp\\rust_mozprofilekLrNu2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711611923242	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711611923350	Marionette	INFO	Listening on port 56311
+WebDriver BiDi listening on ws://127.0.0.1:56298
+Read port: 56311
+1711611923676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56298/devtools/browser/27586a43-35cf-4182-afa4-8e3f57dfe0d1
+1711611954187	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1711612058035	Marionette	INFO	Stopped listening on port 56311
+Dynamically enable window occlusion 1
+SourceActor threw an exception: Error: Failed to fetch https://opensource-demo.orangehrmlive.com/web/index.php/auth/login. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:604:16
+onStopRequest@resource://gre/modules/NetUtil.sys.mjs:124:18
+Line: 604, column: 16
+console.error: (new Error("Failed to fetch https://opensource-demo.orangehrmlive.com/web/index.php/auth/login. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 604))

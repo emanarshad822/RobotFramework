@@ -1,0 +1,15 @@
+1711643471182	geckodriver	INFO	Listening on 127.0.0.1:50609
+1711643474305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHAEDR~1\\AppData\\Local\\Temp\\rust_mozprofilelvh2g0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711643474761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711643474853	Marionette	INFO	Listening on port 50619
+WebDriver BiDi listening on ws://127.0.0.1:50610
+Read port: 50619
+1711643475203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1711643478276	Marionette	INFO	Stopped listening on port 50619
+Dynamically enable window occlusion 1
+1711643478308	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+Exiting due to channel error.
+Exiting due to channel error.

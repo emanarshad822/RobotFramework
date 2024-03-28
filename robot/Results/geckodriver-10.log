@@ -1,0 +1,21 @@
+1711621845368	geckodriver	INFO	Listening on 127.0.0.1:58565
+1711621848452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHAEDR~1\\AppData\\Local\\Temp\\rust_mozprofileUab4Xw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711621849012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711621849116	Marionette	INFO	Listening on port 58575
+WebDriver BiDi listening on ws://127.0.0.1:58566
+Read port: 58575
+1711621849437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58566/devtools/browser/dd03de0e-81a6-4a6d-af06-5577a94d6c9f
+1711621879577	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969, line 115: Script terminated by timeout at:
+get@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969:115:131271
+756/</Rc/n[1]@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969:1:473556
+yn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969:115:110332
+bn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969:115:110412
+n@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969:115:165817
+
+1711621890722	Marionette	INFO	Stopped listening on port 58575
+Dynamically enable window occlusion 1

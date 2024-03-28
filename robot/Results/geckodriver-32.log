@@ -1,0 +1,29 @@
+1711641679094	geckodriver	INFO	Listening on 127.0.0.1:49155
+1711641682219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHAEDR~1\\AppData\\Local\\Temp\\rust_mozprofilehGYKCv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711641682666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711641682753	Marionette	INFO	Listening on port 49164
+WebDriver BiDi listening on ws://127.0.0.1:49156
+Read port: 49164
+1711641683053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49156/devtools/browser/7902deb7-2dfa-43dd-8ff0-8f1834c01e25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1711641697631	Marionette	INFO	Stopped listening on port 49164
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969, line 1: Script terminated by timeout at:
+request@https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969:1:10154
+o/<@https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969:1:68968
+o@https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969:1:68935
+756/</og/</n<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969:1:570650
+
+Dynamically enable window occlusion 1
